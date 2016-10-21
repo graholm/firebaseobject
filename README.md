@@ -1,0 +1,2 @@
+# firebaseobject
+Classadoo generated repo
