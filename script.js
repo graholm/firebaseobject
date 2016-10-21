@@ -1,5 +1,5 @@
 addListItem("product-list", {name: "cool thing",           price:"5",
-picture: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg"
+picture: "https://66.media.tumblr.com/avatar_f2d49cb25615_128.png"
                           
                             
                             })
