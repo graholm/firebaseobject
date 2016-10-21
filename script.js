@@ -1,8 +1,6 @@
-addListItem("product-list", {name: "cool thing",           price:"5",
+addListItem("product-list", {name: "cool goat",           price:"2000000",
 picture: "https://66.media.tumblr.com/avatar_f2d49cb25615_128.png"
-                          
-                            
-                            })
+})
 
 onNewListItem("product-list", function(product) {
   console.log(product.picture)
