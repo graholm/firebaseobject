@@ -1,6 +1,5 @@
-addListItem("product-list", {name: "cool thing", 
-                    price:"5",
-                 picture: 
+addListItem("product-list", {name: "cool thing",           price:"5",
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hausziege_04.jpg"
                           
                             
                             })
